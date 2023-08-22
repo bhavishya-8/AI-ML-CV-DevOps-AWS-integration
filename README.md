@@ -1,4 +1,4 @@
-# Interactive Python Utility README
+# Interactive Python Utility
 
 This repository contains a collection of interactive Python utility scripts implemented using Streamlit. These scripts offer various functionalities for tasks such as Docker management, Linux terminal emulation, technology learning, computer vision, automated machine learning (AutoML), text-to-speech conversion, sending messages, and more.
 
